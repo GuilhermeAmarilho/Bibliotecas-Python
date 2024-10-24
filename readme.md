@@ -60,8 +60,11 @@
     - Request é uma biblioteca para fazer requisições HTTP em Python Possibilitado enviar e receber dados de forma intuitiva.
     - [Acesse a documentação](documentacao/Request.md)
     - [Acesse o código base](codigos/Request.py)
-- pip install python-dotenv
+- .env
     - Biblioteca para reconhecer e manusear arquivos .env
-    pip install python-dotenv
     - [Acesse a documentação](documentacao/DotEnv.md)
     - [Acesse o código base](codigos/DotEnv.py)
+- PyQt
+    - Biblioteca para criar interfaces gráficas
+    - [Acesse a documentação](documentacao/PyQt.md)
+    - [Acesse o código base](codigos/PyQt.py)
